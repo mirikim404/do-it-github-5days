@@ -1,8 +1,9 @@
 <!-- 타이틀 부분 - 원하는 타이틀 이미지 GIF/PNG 로 교체하세요! -->
 <!-- 예시: <img src="YOUR_TITLE_IMAGE_URL" /> -->
 <div align="center">
-  <h1>🌿 Welcome to Miri's GitHub 🌿</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d2d2d&height=200&text=Welcome%20to%20Miri's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
+<br>
 
 <br>
 
