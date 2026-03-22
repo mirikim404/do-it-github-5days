@@ -38,15 +38,11 @@
 <h3 align="center">📖 Currently Learning 📖</h3>
 
 <div align="center">
-
-> 배우는 중인 기술이 생기면 여기에 추가해요 :)
-
-<!-- 예시:
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
--->
-
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 </div>
+
+<!-- 새로운 거 배우면 위에 img 태그 하나 복붙해서 추가하면 돼요! -->
 
 <br>
 
