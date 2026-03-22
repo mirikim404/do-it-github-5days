@@ -80,5 +80,5 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=888888" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
