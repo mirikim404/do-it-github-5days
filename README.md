@@ -83,6 +83,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mirikim404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:003300,100:000000&height=200&section=footer&reversal=true&fontColor=00ff88&stroke=00ff88&strokeWidth=1" />
-</div>
+
