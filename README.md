@@ -33,6 +33,7 @@
 -->
 
 <br>
+<br>
 
 <!-- Currently Learning -->
 <h3 align="center">📖 Currently Learning 📖</h3>
@@ -44,6 +45,7 @@
 
 <!-- 새로운 거 배우면 위에 img 태그 하나 복붙해서 추가하면 돼요! -->
 
+<br>
 <br>
 
 <!-- Tools -->
@@ -63,6 +65,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
@@ -76,6 +79,7 @@
   </a>
 </div>
 
+<br>
 <br>
 
 <!-- GitHub Stats -->
